@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    background: url("learn.webp");
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.btn{
+    padding: 10px;
+    margin: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#cont{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#ccna_blog {
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #eee;
+    border-radius: 5px;
+    padding:10px;
+}
+#front_blog{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #eee;
+    border-radius: 5px;
+    padding:10px;
+}
+#back_blog{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #eee;
+    border-radius: 5px;
+    padding:10px;
+}
+#flutter_blog{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #eee;
+    border-radius: 5px;
+    padding:10px;
+}
+#android_blog{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #eee;
+    border-radius: 5px;
+    padding:10px;
+}
+#ios_blog{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #eee;
+    border-radius: 5px;
+    padding:10px;
+}
+
+#img{
+    width: 200px;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
